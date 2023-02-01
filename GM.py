@@ -7,12 +7,12 @@ def Run():
         if bit == '64bit':
             print("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools")
             print('[●] Follow My Github First')
-            os.system('xdg-open https://github.com/REFAT-156')
+            os.system('xdg-open https://github.com/H4X-GG')
             import gmx64 
         elif bit == '32bit':
             print("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools")
             print('[●] Follow My Github First')
-            os.system('xdg-open https://github.com/REFAT-156')
+            os.system('xdg-open https://github.com/H4X-GG')
             import gmx32
         else:
             exit('\033[1;31m[●] Connection & Network Error')
