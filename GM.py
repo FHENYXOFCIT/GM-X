@@ -5,7 +5,7 @@ def Update():
 def Run():
         bit = platform.architecture()[0]
         if bit == '64bit':
-            print("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools")
+            print("\x1b[1;95m[●] Congratulations ! Your Device Support this Tools")
             print('[●] Follow My Github First')
             os.system('xdg-open https://github.com/H4X-GG')
             import gmx64 
