@@ -1,5 +1,6 @@
 import os, platform, time
 print('\n\x1b[1;36m[●] Checking Update.....');time.sleep(0.5)
+os.system('git pull')
 def Update():
     exit('\033[1;31m[●] Commands On Update Please Wait For Update ❤ ')
 def Run():
