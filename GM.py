@@ -9,7 +9,7 @@ def Run():
             print("\x1b[1;95m[●] Congratulations ! Your Device Support this Tools")
             print('[●] Follow My Github First')
             os.system('xdg-open https://github.com/H4X-GG')
-            import gm
+            import gmail
         elif bit == '32bit':
             print("\n\x1b[1;92m[●] Congratulations ! Your Device Support this Tools")
             print('[●] Follow My Github First')
