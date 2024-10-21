@@ -1,5 +1,5 @@
 import("
-(\pkg_update')
+\pkg_update')
  (\pkg_upgrade')
   (\pkg_install_python')
    (\pkg_install_python')
